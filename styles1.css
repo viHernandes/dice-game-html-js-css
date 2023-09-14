@@ -1,0 +1,37 @@
+*{
+
+    background-color: #393E46;
+
+}
+.container{
+    text-align: center;
+    
+
+}
+
+h1{
+    font-size: 8rem;
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+}
+
+p{
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+
+}
+
+footer{
+
+    text-align: center;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
+
+.dice{
+    display: inline-block;
+    padding: 50px;
+
+
+}
